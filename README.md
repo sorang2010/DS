@@ -1,1 +1,1 @@
-# Основы языка Python
+Профессия Data Scientist
